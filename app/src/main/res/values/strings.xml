@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All Breaking News</string>
+    <string name="service_label">AllBreakingNews</string>
+
+    <string name="stabot_endpoint">http://b7ed2590.ngrok.io/app</string>
+    <string name="notification_listener_service">"All Breaking News"</string>
+    <string name="notification_listener_service_explanation">"For the app to work, you need to enable the Notification Listener Service. Enable it now?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
